@@ -1,0 +1,17 @@
+P/O No. = order document group
+P/O Date = Ordering date
+Vendor Name = Name of the vendor
+Job Code = Code for each type of job category
+Job Name = ['EE', 'AC', 'Over Head', 'SN', 'OTHER', 'FP'] -> All job categories name
+Ref.Code = Building site code (each site has a unique ref code)
+Deli. Date = Delivery date
+Cost Code = Type of cost ['M', 'U', 'G', 'S', 'L']
+    M = Material | U = Countable unit | G = General | S = Subcontractor | L = Labour 
+Material Code = Each specific material type has its own code
+Unit = Type of unit (eg: kilograms, pipes, stacks, gallons, etc.)
+Qty = Quantity
+Price/Unit = Price per one unit 
+Amount = Total price for all quantity
+Discount = Discount price
+VAT = Vat price
+Net Amount = Final total price
